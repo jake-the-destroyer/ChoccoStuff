@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/CDC-1.1%Foundation-1.1"/>
+	<classpathentry kind="lib" path="/users/2017/jbw1/Downloads/choco-4.0.2/choco-solver-4.0.2-with-dependencies.jar" sourcepath="/users/2017/jbw1/Downloads/choco-4.0.2/choco-solver-4.0.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/users/2017/jbw1/Downloads/choco-4.0.2/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
